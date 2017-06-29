@@ -1,5 +1,5 @@
 # Add...
-- [ ] Using external Libraries -> maven
+- [ ] Using external Libraries -> gradle
 - [x] JavaFX
 
 # Improve...
