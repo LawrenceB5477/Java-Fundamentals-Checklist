@@ -53,6 +53,7 @@
 * String methods
 
 ### Generics
+TODO: add...
 
 ### Packages
 * Creating packages
@@ -90,7 +91,7 @@
 * What a jar files is
 * How to create a jar file manually
 * Manifest Files
-	
+
 ### Unit Tests
 * Test Driven Development Concepts
 * JUNIT
@@ -118,7 +119,7 @@ Java tuts for most of this info [here](https://docs.oracle.com/javase/tutorial/i
 * ETC
 * Collections
 	* Difference between the underlying data type and collections library
-	
+
 ### Algorithms - TODO expand
 * Sorting Algorithms
 * Search algorithms
@@ -163,7 +164,7 @@ Java tuts for most of this info [here](https://docs.oracle.com/javase/tutorial/i
 	* Maven structure
 	* Gradle
 	* No clue.
-	
+
 ### Source Control
 * Git
 * GitHub
