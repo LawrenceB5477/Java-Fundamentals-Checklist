@@ -1,7 +1,7 @@
 # Add...
-[ ] Using external Libraries -> maven
+- [ ] Using external Libraries -> maven
 
 # Improve...
-[ ] Data structures
-[ ] Algorithms
-[ ] Generics
+- [ ] Data structures
+- [ ] Algorithms
+- [ ] Generics
