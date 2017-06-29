@@ -145,7 +145,9 @@ Java tuts for most of this info [here](https://docs.oracle.com/javase/tutorial/i
 * Layout managers
 
 ### JavaFX
-* No clue.
+* Listeners
+* Buttons
+* Styles (CSS, inline)
 
 ### Networking
 * More coming later.
